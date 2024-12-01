@@ -10,6 +10,7 @@
 2. DA_Frontend - frontend сервиса
 3. testing_service - пример сервиса для взаимодействия с программой
 4. docs - информация о проекте
+5. Демонстрация проекта - https://drive.google.com/drive/folders/1h6IPyXXk3nZWGVNHgkRxYM_0cXcqnsM1
 
 # Запуск проекта
 ## Backend
