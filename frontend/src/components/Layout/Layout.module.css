@@ -1,0 +1,8 @@
+.app {
+  height: 100%;
+}
+
+.content {
+  background: linear-gradient(0deg, rgba(177, 221, 169, 1) 0%, rgba(152, 219, 206, 1) 100%);
+  height: calc(100% - 88px);
+}

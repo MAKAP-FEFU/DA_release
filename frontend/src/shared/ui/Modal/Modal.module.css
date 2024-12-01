@@ -1,0 +1,23 @@
+.dialogContent {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #58a58f;
+  border-radius: 10px;
+  padding: 45px 40px;
+}
+
+.dialogOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.dialogTitle {
+  font-weight: 400;
+  font-size: 30px;
+}

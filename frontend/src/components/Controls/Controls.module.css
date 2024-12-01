@@ -1,0 +1,36 @@
+.root {
+  padding-left: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.leftSide {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+}
+
+.delete {
+  padding: 8px;
+  background-color: #58a58f;
+  border-radius: 10px;
+  height: 40px;
+}
+
+.disabled {
+  path {
+    stroke: #31615f;
+  }
+}
+
+.add {
+  padding: 7px 30px;
+  background-color: #58a58f;
+  border: 2px solid #428370;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}

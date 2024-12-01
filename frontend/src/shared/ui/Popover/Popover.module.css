@@ -1,0 +1,24 @@
+.iconButton {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  height: 42px;
+}
+
+.trigger {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  height: 42px;
+}
+
+.content {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 12px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+}

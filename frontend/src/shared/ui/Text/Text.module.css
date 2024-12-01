@@ -1,0 +1,56 @@
+.root {
+  font-style: normal;
+  line-height: normal;
+}
+
+.f40 {
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: 0.4px;
+}
+
+.f32 {
+  font-size: 32px;
+  line-height: 41px;
+  letter-spacing: 0.4px;
+}
+
+.f28 {
+  font-size: 28px;
+  line-height: 41px;
+  letter-spacing: 0.4px;
+}
+
+.f24 {
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.07px;
+}
+
+.f22 {
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0.07px;
+}
+
+.f22 {
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.07px;
+}
+
+.f16 {
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing: -0.23px;
+}
+
+.f14 {
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.23px;
+}
+
+.w700 {
+  font-weight: 700;
+}

@@ -1,0 +1,43 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.input {
+  min-width: 320px;
+  border-radius: 10px;
+  padding: 6px 22px;
+  height: 40px;
+  position: relative;
+
+  &::placeholder {
+    position: absolute;
+    left: 22px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    color: #7c908f;
+  }
+}
+
+.error {
+  visibility: hidden;
+  color: #ff8c8c;
+  font-size: 13px;
+  margin-left: 16px;
+  height: 21px;
+
+  &.visibleError {
+    visibility: visible;
+  }
+}
+
+.icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
