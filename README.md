@@ -11,6 +11,7 @@
 3. testing_service - пример сервиса для взаимодействия с программой
 4. docs - информация о проекте
 5. Демонстрация проекта - https://drive.google.com/drive/folders/1h6IPyXXk3nZWGVNHgkRxYM_0cXcqnsM1
+6. Дизайн - https://www.figma.com/design/oDMI2BqRYf0tvts2yOejyN/Untitled?node-id=0-1&node-type=canvas&t=fZDLSqzQX6FRKJbJ-0
 
 # Запуск проекта
 ## Backend
