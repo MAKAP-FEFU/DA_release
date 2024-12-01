@@ -45,4 +45,4 @@ async def delete_models(connections_del: ConcectionsDelete, db: DBDep):
 async def connect(connection_data: ConnectData, db: DBDep):
     source = await db.sources.get_one_or_none(id=connection_data.source_id)
     model = await db.models.get_one_or_none(id=connection_data.model_id)
-    return MatchingService().match(model.features, source.features)
+    return {"data" : "Здесь будет результат приведения типов"}
